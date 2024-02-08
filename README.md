@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center">Hi 👋, I'm Shunyuan Zheng </h2>
-<h3 align="center">Ph.D. student in Harbin Institute of Technology [![](https://img.shields.io/badge/Research-GoogleScholar-red)](https://scholar.google.com/citations?user=nAHH79oAAAAJ) </h3>
+<h2 align="center">Hi 👋, I'm Shunyuan Zheng (郑顺源) </h2>
 
 ### ✨ Quick Facts
-- 🤗 I am currently a third-year Ph.D. student supervised by Prof. Shengping Zhang working on Virtual Humans.
+- 🤗 I am currently a Ph.D. student in Harbin Institute of Technology supervised by Prof. Shengping Zhang.
 
 - 👀 My research interests include 3D human reconstruction and novel view synthesis.
 
 - 📧 Email me at: **sawyer0503@gmail.com** or **sawyer0503@hit.edu.cn**
 
 - 📫 My personal webpage: **https://shunyuanzheng.github.io**
+
+- 📄 My Google scholar webpage: **https://scholar.google.com/citations?user=nAHH79oAAAAJ**
