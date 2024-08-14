@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center">Hi 👋, I'm Shunyuan Zheng (郑顺源) </h2>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👋, I'm Shunyuan Zheng (郑顺源) </h2>
 
 ### ✨ Quick Facts
 - 🤗 I am currently a Ph.D. student in Harbin Institute of Technology supervised by Prof. Shengping Zhang.
